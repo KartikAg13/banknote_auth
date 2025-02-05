@@ -22,26 +22,19 @@ The target column:
 ## 🔧 Installation
 Clone this repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/decision-tree-from-scratch.git
-cd decision-tree-from-scratch
+https://github.com/KartikAg13/banknote_auth.git
+cd banknote_auth
 pip install pandas numpy matplotlib
-```
-
-## 🚀 Usage
-Run the Jupyter Notebook to execute the decision tree implementation.
-```bash
-jupyter notebook Decision_Tree_From_Scratch.ipynb
 ```
 
 ## 🏗️ Project Structure
 ```
-├── Decision_Tree_From_Scratch.ipynb  # Jupyter Notebook with implementation
-├── README.md                          # Project Documentation
-├── BankNote_Authentication.csv        # Dataset (Needs to be downloaded)
+├── main.ipynb  # Jupyter Notebook with implementation
+├── README.md   # Project Documentation
 ```
 
 ## 📊 Results
-- **Accuracy:** ~85-90% on test data
+- **Accuracy:** ~90% on test data
 - **Max Depth:** Configurable (default: 3)
 - **Visualization:** Scatter plot of feature distribution
 
